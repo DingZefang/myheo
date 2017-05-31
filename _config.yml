@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Wedding Photography Services | Dreamana Malaysia
 subtitle:
-description:
-author: John Doe
+description: We provides professional photography services for pre and post wedding in Malaysia. Get in touch with us at 014-380 0310.
+author: 
 language:
 timezone:
 
@@ -63,7 +63,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: beautiful-hexo
+
+archive_generator:
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

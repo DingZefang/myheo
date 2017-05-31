@@ -1,0 +1,81 @@
+navbar-links:
+    pre wedding photography: /pre-wedding-photography/
+    wedding day photography: /wedding-day-photography/
+    wedding photographer malaysia: /wedding-photographer-malaysia/
+    product photography: /product-photography/
+    portrait: /portrait/
+    Contact Us: /join-dreamana/
+    Archive: /archives
+    
+    
+
+avatar: /DreamAna2.png
+favicon: /DreamAna2.png
+
+header:
+    title: "For Memory"
+    motto: In memory everything seems to happen to music
+    bigimgs:
+        - src: /bigimgs/01.jpg
+          desc: 
+        
+
+rss: /atom.xml
+googlefonts:
+  - "Lora:400,700,400italic,700italic"
+  - "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+
+highlight:
+  enable: true
+# or use any highlight.js style
+#  style_path: "//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.5.0/styles/default.min.css"
+  style_path: "/css/highlight.css"
+
+footer:
+  facebook:
+    link: 'https://www.facebook.com/DreamAna-wedding-1693896657544773/'
+    title: Facebook
+    icon: fa-facebook
+    enalbe: true
+  weibo:
+    link: 'http://weibo.com/bisyao?is_all=1'
+    title: Weibo
+    icon: fa-weibo
+    enalbe: false
+  github:
+    link: 'https://github.com/twoyao'
+    title: GitHub
+    icon: fa-github
+    enable: false
+  rss:
+    link: '/atom.xml'
+    title: RSS
+    icon: fa-rss
+    enable: true
+  twitter:
+    link: 'https://twitter.com/twoyao_'
+    title: Twitter
+    icon: fa-twitter
+    enable: false
+  mail:
+    link: 'zefang1991@gmail.com'
+    title: Email me
+    icon: fa-envelope
+    enable: true
+  linkin:
+    link: # your link here e.g. http...
+    title: LinkedIn
+    icon: fa-linkedin
+    enable: false
+  stackoverflow:
+    link: # your link here e.g. http...
+    title: StackOverflow
+    icon: fa-stack-overflow
+    enable: false
+
+google_analytics:
+
+comment:
+  enable: true
+  disqus: twoyao
+
