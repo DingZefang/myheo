@@ -11,3 +11,10 @@ Indulge with us. These are some of the locations that we will be visiting comes 
 ![pre-wedding-photoshoot-malaysia](/15-1400x933.jpg)
 
 We may be spending a day to a week traveling together for photography. Be it for wedding portraits, or your holiday. Our goal is to create a good mixture of travel photographs and portraits for a classy album at the end of day.
+
+
+--------------------
+### Our services:
+[Pre wedding photography](/pre-wedding-photography)
+[Wedding day photography](/wedding-day-photography)
+[Portrait](/portrait)
