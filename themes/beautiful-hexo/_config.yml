@@ -1,10 +1,9 @@
 navbar-links:
-    pre wedding photography: /pre-wedding-photography/
-    wedding day photography: /wedding-day-photography/
-    wedding photographer malaysia: /wedding-photographer-malaysia/
-    product photography: /product-photography/
-    portrait: /portrait/
-    Contact Us: /join-dreamana/
+    pre wedding photography: /pre-wedding-photography
+    wedding day photography: /wedding-day-photography
+    wedding photographer malaysia: /wedding-photographer-malaysia
+    portrait: /portrait
+    Contact Us: /join-dreamana
     Archive: /archives
     
     
@@ -77,5 +76,5 @@ google_analytics:
 
 comment:
   enable: true
-  disqus: twoyao
+  disqus: dreamanawedding
 
