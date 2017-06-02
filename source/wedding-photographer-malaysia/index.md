@@ -17,7 +17,7 @@ Whatsapp: 014-3800310
 
 # Stone
 ### Senior wedding photographer
-Stone is  Senior wedding photographer of Dreamana Wedding. He¡¯ll capture those natural, joyful, spontaneous, photographs. based in kuala lumpur and working throughout the South East Asia.
+Stone is  Senior wedding photographer of Dreamana Wedding. He'll capture those natural, joyful, spontaneous, photographs. based in kuala lumpur and working throughout the South East Asia.
 
 Email: StoneShi@protonmail.com
 
