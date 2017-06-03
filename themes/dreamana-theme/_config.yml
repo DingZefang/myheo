@@ -72,7 +72,7 @@ footer:
     icon: fa-stack-overflow
     enable: false
 
-google_analytics:
+google_analytics: UA-74514433-1
 
 comment:
   enable: true
