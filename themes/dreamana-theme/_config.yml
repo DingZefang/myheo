@@ -57,7 +57,7 @@ footer:
     icon: fa-twitter
     enable: false
   mail:
-    link: '/join-dreamana'
+    link: '/join-dreamana/'
     title: Email me
     icon: fa-envelope
     enable: true
