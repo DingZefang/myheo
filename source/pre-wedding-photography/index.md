@@ -17,4 +17,4 @@ We may be spending a day to a week traveling together for photography. Be it for
 ### Our services:
 [Pre wedding photography](/pre-wedding-photography)
 [Wedding day photography](/wedding-day-photography)
-[Portrait](/portrait)
+[Portrait](/portrait-photography)

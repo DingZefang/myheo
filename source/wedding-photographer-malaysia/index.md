@@ -35,6 +35,6 @@ Lok Chou have passionate at photograhy, he graduate from MMU last year. That guy
 ### Our services:
 [Pre wedding photography](/pre-wedding-photography)
 [Wedding day photography](/wedding-day-photography)
-[Portrait](/portrait/)
+[Portrait](/portrait-photography)
 
 

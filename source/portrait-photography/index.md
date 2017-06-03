@@ -21,4 +21,4 @@ We photograph maternity portraitures between the 2nd trimester to the early 3rd 
 ### Our services:
 [Pre wedding photography](/pre-wedding-photography)
 [Wedding day photography](/wedding-day-photography)
-[Portrait](/portrait)
+[Portrait](/portrait-photography)
