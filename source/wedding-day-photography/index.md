@@ -22,4 +22,4 @@ Imagining the very first time you lay your eyes on your album. Or how would it f
 
 
 
-<a href="/join-dreamana/"><button style="width:300px;height:50px;">contact us</button></a>
+<a href="/join-dreamana/"><button style="width:300px;height:50px;color:black">contact us</button></a>

@@ -23,4 +23,4 @@ We photograph maternity portraitures between the 2nd trimester to the early 3rd 
 [Wedding day photography](/wedding-day-photography)
 [Portrait](/portrait-photography)
 
-<a href="/join-dreamana/"><button style="width:300px;height:50px;">contact us</button></a>
+<a href="/join-dreamana/"><button style="width:300px;height:50px;color:black">contact us</button></a>

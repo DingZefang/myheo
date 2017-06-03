@@ -19,4 +19,4 @@ We may be spending a day to a week traveling together for photography. Be it for
 [Wedding day photography](/wedding-day-photography)
 [Portrait](/portrait-photography)
 
-<a href="/join-dreamana/"><button style="width:300px;height:50px;">contact us</button></a>
+<a href="/join-dreamana/"><button style="width:300px;height:50px;color:black">contact us</button></a>
