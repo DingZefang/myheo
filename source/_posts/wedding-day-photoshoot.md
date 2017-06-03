@@ -1,5 +1,6 @@
 ---
 title: wedding-day-photoshoot-MrLo
+tags: ["wedding", "wedding photoshoot"]
 categories:
 - wedding photoshoot
 ---

@@ -1,5 +1,6 @@
 ---
 title: wedding-day-mrslee
+tags: ["wedding", "wedding photoshoot"]
 categories:
 - wedding photoshoot
 ---
