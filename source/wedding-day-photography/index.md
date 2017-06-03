@@ -16,9 +16,9 @@ Imagining the very first time you lay your eyes on your album. Or how would it f
 
 --------------------
 ### Our services:
-[Pre wedding photography](/pre-wedding-photography)
-[Wedding day photography](/wedding-day-photography)
-[Portrait](/portrait-photography)
+[Pre wedding photography](/pre-wedding-photography/)
+[Wedding day photography](/wedding-day-photography/)
+[Portrait](/portrait-photography/)
 
 
 
