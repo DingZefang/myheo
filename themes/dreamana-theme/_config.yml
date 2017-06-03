@@ -57,7 +57,7 @@ footer:
     icon: fa-twitter
     enable: false
   mail:
-    link: 'zefang1991@gmail.com'
+    link: '/join-dreamana'
     title: Email me
     icon: fa-envelope
     enable: true

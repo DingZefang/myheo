@@ -10,4 +10,4 @@ Dream Ana Wedding is an online booking photography service placed in Malaysia. W
 ### Our services:
 [Pre wedding photography](/pre-wedding-photography)
 [Wedding day photography](/wedding-day-photography)
-[Portrait](/portrait)
+[Portrait](/portrait-photography)
