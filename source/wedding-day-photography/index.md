@@ -23,3 +23,11 @@ Imagining the very first time you lay your eyes on your album. Or how would it f
 
 
 <a href="/join-dreamana/"><button style="width:300px;height:50px;color:black">contact us</button></a>
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_google_plus"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
