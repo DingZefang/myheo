@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Wedding Photography Services | Dreamana Malaysia
+title: Wedding Photography Services|Dreamana Malaysia
 subtitle:
 description: We provides professional photography services for pre and post wedding in Malaysia. Get in touch with us at 014-380 0310.
 author: 
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://dreamanawedding.com
 root: /
 permalink: :category/:title/
 permalink_defaults:
@@ -68,7 +68,7 @@ theme: dreamana-theme
 archive_generator:
     per_page: 0
     yearly: false
-    monthly: false
+    monthly: ture
     daily: false
 
 # Deployment
